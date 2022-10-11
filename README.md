@@ -4,6 +4,9 @@ This is the official account of RoboDepth, a benchmark for probing the out-of-di
 
 
 
+<p align="middle">
+  <img src="figs/ack.png" />
+</p>
 
 <!--
 **RoboDepth/RoboDepth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

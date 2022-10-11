@@ -10,7 +10,7 @@ This is the official account of RoboDepth, a benchmark for probing the out-of-di
 We break down common corruptions into 18 detailed corruption sources from three aspects: 1) weather and lighting conditions, 2) sensor failure and movement, 3) data processing issues.
 
 <p align="middle">
-  <img src="figs/taxonomy.png">
+  <img src="figs/taxonomy.png" width="80%">
 </p>
 
 ### Contact Us

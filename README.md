@@ -3,7 +3,7 @@
 </p>
 
 ### About
-Hi there! This is the official account of RoboDepth, a benchmark for probing the out-of-distribution robustness of depth estimation methods.
+Hi there! This is the official account of **RoboDepth**, a benchmark for probing the out-of-distribution robustness of depth estimation methods.
 
 ### Corruption Taxonomy
 <p align="middle">

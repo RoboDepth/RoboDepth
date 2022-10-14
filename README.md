@@ -11,7 +11,7 @@ Our RoboDepth is the very first benchmark that targets probing the OoD robustnes
 2. Sensor failure and movement, such as potential blurs (defocus, glass, motion, zoom) caused by motion.
 3. Data processing issues, such as noises (Gaussian, impulse, ISO) happen due to hardware malfunctions.
 
-### Corruption Taxonomy
+## Corruption Taxonomy
 <p align="middle">
   <img src="figs/taxonomy.png" width="100%">
 </p>

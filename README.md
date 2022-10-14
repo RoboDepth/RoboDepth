@@ -29,6 +29,8 @@ For more details, please visit https://robodepth.github.io.
 ## Acknowledgements
 This project is supported by [DesCartes](https://descartes.cnrsatcreate.cnrs.fr/), a [CNRS@CREATE](https://www.cnrsatcreate.cnrs.fr/) program on Intelligent Modeling for Decision-Making in Critical Urban Systems.
 
+We are actively looking for more sponsors. If you are interested, please contact robodepth@outlook.com.
+
 <p align="middle">
   <img src="figs/ack.png">
 </p>

@@ -3,7 +3,7 @@
 </p>
 
 ## About
-Hi there! This is the official account of **RoboDepth**, a benchmark for probing the out-of-distribution robustness of depth estimation methods.
+Hi there! This is the official account of RoboDepth, a benchmark for probing the out-of-distribution robustness of depth estimation methods.
 Depth estimation from monocular and stereo images plays an essential role in real-world visual perception systems. Although promising results have been achieved, the current learning-based depth estimation models are trained and tested on clean datasets while ignoring the out-of-distribution (OoD) situations. Common corruptions, however, tend to happen in practical scenarios, which is safety-critical for applications like autonomous driving and robot navigation. To raise attention among the community to robust depth estimation, we propose the RoboDepth benchmark.
 
 Our RoboDepth is the very first benchmark that targets probing the OoD robustness of depth estimation models under common corruptions. There are 18 corruption types in total, ranging from three perspectives:
